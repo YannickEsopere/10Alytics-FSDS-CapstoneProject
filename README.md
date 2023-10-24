@@ -30,7 +30,7 @@ The supervised machine learning approach was used to build the customer churn pr
 - **Random Forest Classifier**
 - **Decision Tree Classifier**
 - **XG Boost Classifier**
-- **K Neighbors Classifier**
+- **K-Nearest Neighbors Classifier**
 - **Support Vector Classifier (SVC)**
 - **Logistic Regression**
 
