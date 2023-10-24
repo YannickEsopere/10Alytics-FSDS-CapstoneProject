@@ -33,6 +33,7 @@ The supervised machine learning approach was used to build the customer churn pr
 - **K Neighbors Classifier**
 - **Support Vector Classifier (SVC)**
 - **Logistic Regression**
+
 The best machine-learning model was selected based on its accuracy and general performance.
 
 ## Model Evaluation
